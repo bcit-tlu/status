@@ -1,36 +1,51 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: bcit-tlu # Your GitHub organization or username, where this repository lives
+repo: status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: cdn
+    url: https://commoncdnkztu547l.blob.core.windows.net/cdn/bcit-ltc/common/branding/1.0.0/alive.html
+  - name: Common (cdn loader)
+    url: https://common.ltc.bcit.ca
+  - name: Conversion Guide
+    url: https://conversion-guide.ltc.bcit.ca
+  - name: CORGI
+    url: https://corgi.ltc.bcit.ca
+  - name: Course Workload Estimator
+    url: https://course-workload-estimator.ltc.bcit.ca
+  - name: H5P
+    url: https://h5p.commons.bcit.ca
+  - name: Learning Hub
+    url: https://learn.bcit.ca/shared/header.htm
+  - name: Legacy apps
+    url: https://ltc.bcit.ca/multimedia/
+  - name: qcon-web
+    url: https://qcon-web.ltc.bcit.ca
+  - name: qcon-api
+    url: https://qcon-api.ltc.bcit.ca
+  - name: Sugar Suite
+    url: https://sugar-suite.ltc.bcit.ca
+  # - name: Sugar Suite - latest
+  #   url: https://sugar-suite.latest.ltc.bcit.ca
+  - name: ETS Online Help Centre
+    url: https://www.techhelpbcit.ca/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+  # cname: demo.upptime.js.org
+  baseUrl: /status
+  # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  name: status
+  introTitle: BCIT TLU Service Status Dashboard
+  # themeUrl: https://bcit-ltc.github.io/status/custom.css
+  introMessage:
+  # navbar:
+  #   - title: Status
+  #     href: /
+  #   - title: GitHub
+  #     href: https://github.com/$OWNER/$REPO
+  theme: ocean
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
