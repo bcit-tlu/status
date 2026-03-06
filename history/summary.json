@@ -22,19 +22,19 @@
     "url": "https://common.ltc.bcit.ca",
     "icon": "https://icons.duckduckgo.com/ip3/common.ltc.bcit.ca.ico",
     "slug": "common-cdn-loader",
-    "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
-    "time": 421,
-    "timeDay": 421,
-    "timeWeek": 421,
-    "timeMonth": 421,
-    "timeYear": 421,
+    "status": "up",
+    "uptime": "80.90%",
+    "uptimeDay": "80.90%",
+    "uptimeWeek": "80.90%",
+    "uptimeMonth": "80.90%",
+    "uptimeYear": "80.90%",
+    "time": 506,
+    "timeDay": 506,
+    "timeWeek": 506,
+    "timeMonth": 506,
+    "timeYear": 506,
     "dailyMinutesDown": {
-      "2026-03-06": 0
+      "2026-03-06": 32
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://conversion-guide.ltc.bcit.ca",
     "icon": "https://icons.duckduckgo.com/ip3/conversion-guide.ltc.bcit.ca.ico",
     "slug": "conversion-guide",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 444,
-    "timeDay": 444,
-    "timeWeek": 444,
-    "timeMonth": 444,
-    "timeYear": 444,
+    "status": "up",
+    "uptime": "80.90%",
+    "uptimeDay": "80.90%",
+    "uptimeWeek": "80.90%",
+    "uptimeMonth": "80.90%",
+    "uptimeYear": "80.90%",
+    "time": 540,
+    "timeDay": 540,
+    "timeWeek": 540,
+    "timeMonth": 540,
+    "timeYear": 540,
     "dailyMinutesDown": {
-      "2026-03-06": 0
+      "2026-03-06": 32
     }
   },
   {
