@@ -29,6 +29,7 @@ sites:
   #   url: https://sugar-suite.latest.ltc.bcit.ca
   - name: ETS Online Help Centre
     url: https://www.techhelpbcit.ca/
+    maxResponseTime: 5000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
