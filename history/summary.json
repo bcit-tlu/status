@@ -13,7 +13,7 @@
     "time": 250,
     "timeDay": 90,
     "timeWeek": 127,
-    "timeMonth": 279,
+    "timeMonth": 284,
     "timeYear": 250,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 457,
     "timeDay": 492,
     "timeWeek": 473,
-    "timeMonth": 459,
+    "timeMonth": 460,
     "timeYear": 457,
     "dailyMinutesDown": {
       "2026-03-06": 32,
@@ -52,7 +52,7 @@
     "time": 526,
     "timeDay": 533,
     "timeWeek": 573,
-    "timeMonth": 527,
+    "timeMonth": 529,
     "timeYear": 526,
     "dailyMinutesDown": {
       "2026-03-06": 32
@@ -72,7 +72,7 @@
     "time": 836,
     "timeDay": 863,
     "timeWeek": 901,
-    "timeMonth": 936,
+    "timeMonth": 944,
     "timeYear": 836,
     "dailyMinutesDown": {
       "2026-03-14": 32
@@ -92,7 +92,7 @@
     "time": 388,
     "timeDay": 340,
     "timeWeek": 396,
-    "timeMonth": 393,
+    "timeMonth": 391,
     "timeYear": 388,
     "dailyMinutesDown": {
       "2026-05-25": 404,
@@ -123,11 +123,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/hriv.latest.ltc.bcit.ca.ico",
     "slug": "hriv",
     "status": "up",
-    "uptime": "93.73%",
+    "uptime": "93.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.73%",
-    "uptimeYear": "93.73%",
+    "uptimeMonth": "93.91%",
+    "uptimeYear": "93.91%",
     "time": 338,
     "timeDay": 440,
     "timeWeek": 405,
@@ -152,7 +152,7 @@
     "time": 260,
     "timeDay": 131,
     "timeWeek": 232,
-    "timeMonth": 254,
+    "timeMonth": 255,
     "timeYear": 260,
     "dailyMinutesDown": {}
   },
@@ -170,7 +170,7 @@
     "time": 315,
     "timeDay": 286,
     "timeWeek": 345,
-    "timeMonth": 321,
+    "timeMonth": 319,
     "timeYear": 315,
     "dailyMinutesDown": {}
   },
@@ -188,7 +188,7 @@
     "time": 382,
     "timeDay": 346,
     "timeWeek": 406,
-    "timeMonth": 389,
+    "timeMonth": 391,
     "timeYear": 382,
     "dailyMinutesDown": {}
   },
@@ -206,7 +206,7 @@
     "time": 347,
     "timeDay": 283,
     "timeWeek": 347,
-    "timeMonth": 352,
+    "timeMonth": 353,
     "timeYear": 347,
     "dailyMinutesDown": {}
   },
@@ -224,7 +224,7 @@
     "time": 340,
     "timeDay": 278,
     "timeWeek": 360,
-    "timeMonth": 349,
+    "timeMonth": 351,
     "timeYear": 340,
     "dailyMinutesDown": {}
   },
@@ -233,16 +233,16 @@
     "url": "https://www.techhelpbcit.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/www.techhelpbcit.ca.ico",
     "slug": "ets-online-help-centre",
-    "status": "up",
+    "status": "down",
     "uptime": "98.28%",
-    "uptimeDay": "90.76%",
-    "uptimeWeek": "96.07%",
+    "uptimeDay": "93.73%",
+    "uptimeWeek": "96.06%",
     "uptimeMonth": "97.43%",
     "uptimeYear": "98.28%",
     "time": 522,
-    "timeDay": 271,
+    "timeDay": 280,
     "timeWeek": 298,
-    "timeMonth": 351,
+    "timeMonth": 352,
     "timeYear": 522,
     "dailyMinutesDown": {
       "2026-03-07": 501,
