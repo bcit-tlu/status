@@ -214,8 +214,8 @@
     "slug": "qcon-api",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 333,
@@ -224,7 +224,7 @@
     "timeMonth": 306,
     "timeYear": 333,
     "dailyMinutesDown": {
-      "2026-06-01": 0
+      "2026-06-01": 1
     }
   },
   {
@@ -288,7 +288,7 @@
     "slug": "ets-online-help-centre",
     "status": "up",
     "uptime": "97.76%",
-    "uptimeDay": "81.32%",
+    "uptimeDay": "81.34%",
     "uptimeWeek": "92.19%",
     "uptimeMonth": "96.49%",
     "uptimeYear": "97.76%",
