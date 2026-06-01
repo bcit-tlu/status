@@ -15,16 +15,22 @@ sites:
     url: https://course-workload-estimator.ltc.bcit.ca
   - name: H5P
     url: https://h5p.commons.bcit.ca
-  - name: hriv
+  - name: hriv (latest)
     url: https://hriv.latest.ltc.bcit.ca
   - name: Learning Hub
     url: https://learn.bcit.ca/shared/header.htm
   - name: Legacy apps
     url: https://ltc.bcit.ca/multimedia/
+  - name: Open Data
+    url: https://open-data.ltc.bcit.ca
   - name: qcon-web
     url: https://qcon-web.ltc.bcit.ca
   - name: qcon-api
     url: https://qcon-api.ltc.bcit.ca
+  - name: QF-PCR
+    url: https://qf-pcr.ltc.bcit.ca
+  - name: Tech Ops Docs
+    url: https://tech-ops-docs.ltc.bcit.ca
   - name: Sugar Suite
     url: https://sugar-suite.ltc.bcit.ca
   # - name: Sugar Suite - latest
