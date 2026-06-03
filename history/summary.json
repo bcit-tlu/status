@@ -140,19 +140,19 @@
     "url": "https://learn.bcit.ca/shared/header.htm",
     "icon": "https://icons.duckduckgo.com/ip3/learn.bcit.ca.ico",
     "slug": "learning-hub",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "96.06%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.96%",
     "time": 275,
-    "timeDay": 268,
-    "timeWeek": 344,
-    "timeMonth": 284,
+    "timeDay": 263,
+    "timeWeek": 335,
+    "timeMonth": 283,
     "timeYear": 275,
     "dailyMinutesDown": {
-      "2026-06-03": 1
+      "2026-06-03": 57
     }
   },
   {
@@ -215,18 +215,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/qcon-api.ltc.bcit.ca.ico",
     "slug": "qcon-api",
     "status": "down",
-    "uptime": "98.45%",
+    "uptime": "98.41%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "80.37%",
-    "uptimeMonth": "95.48%",
-    "uptimeYear": "98.45%",
+    "uptimeWeek": "79.81%",
+    "uptimeMonth": "95.35%",
+    "uptimeYear": "98.41%",
     "time": 333,
     "timeDay": 313,
     "timeWeek": 290,
     "timeMonth": 313,
     "timeYear": 333,
     "dailyMinutesDown": {
-      "2026-06-03": 90,
+      "2026-06-03": 147,
       "2026-06-02": 1440,
       "2026-06-01": 449
     }
@@ -290,16 +290,16 @@
     "url": "https://www.techhelpbcit.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/www.techhelpbcit.ca.ico",
     "slug": "ets-online-help-centre",
-    "status": "down",
-    "uptime": "97.43%",
-    "uptimeDay": "72.30%",
-    "uptimeWeek": "90.60%",
-    "uptimeMonth": "95.51%",
-    "uptimeYear": "97.43%",
+    "status": "up",
+    "uptime": "97.39%",
+    "uptimeDay": "68.39%",
+    "uptimeWeek": "90.04%",
+    "uptimeMonth": "95.38%",
+    "uptimeYear": "97.39%",
     "time": 474,
-    "timeDay": 248,
-    "timeWeek": 347,
-    "timeMonth": 340,
+    "timeDay": 263,
+    "timeWeek": 349,
+    "timeMonth": 341,
     "timeYear": 474,
     "dailyMinutesDown": {
       "2026-03-07": 501,
@@ -329,7 +329,7 @@
       "2026-05-31": 98,
       "2026-06-01": 265,
       "2026-06-02": 464,
-      "2026-06-03": 6
+      "2026-06-03": 63
     }
   }
 ]
