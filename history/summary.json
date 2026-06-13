@@ -296,17 +296,17 @@
     "url": "https://www.techhelpbcit.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/www.techhelpbcit.ca.ico",
     "slug": "ets-online-help-centre",
-    "status": "down",
-    "uptime": "95.66%",
-    "uptimeDay": "70.15%",
-    "uptimeWeek": "81.07%",
-    "uptimeMonth": "89.31%",
-    "uptimeYear": "95.66%",
-    "time": 422,
-    "timeDay": 292,
-    "timeWeek": 308,
+    "status": "up",
+    "uptime": "95.63%",
+    "uptimeDay": "67.73%",
+    "uptimeWeek": "80.72%",
+    "uptimeMonth": "89.23%",
+    "uptimeYear": "95.63%",
+    "time": 421,
+    "timeDay": 291,
+    "timeWeek": 307,
     "timeMonth": 334,
-    "timeYear": 422,
+    "timeYear": 421,
     "dailyMinutesDown": {
       "2026-03-07": 501,
       "2026-03-08": 79,
@@ -345,7 +345,7 @@
       "2026-06-10": 96,
       "2026-06-11": 129,
       "2026-06-12": 493,
-      "2026-06-13": 177
+      "2026-06-13": 212
     }
   }
 ]
