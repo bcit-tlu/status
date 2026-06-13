@@ -298,9 +298,9 @@
     "slug": "ets-online-help-centre",
     "status": "down",
     "uptime": "95.72%",
-    "uptimeDay": "61.62%",
+    "uptimeDay": "61.30%",
     "uptimeWeek": "82.07%",
-    "uptimeMonth": "89.58%",
+    "uptimeMonth": "89.57%",
     "uptimeYear": "95.72%",
     "time": 425,
     "timeDay": 316,
@@ -345,7 +345,7 @@
       "2026-06-10": 96,
       "2026-06-11": 129,
       "2026-06-12": 493,
-      "2026-06-13": 61
+      "2026-06-13": 66
     }
   }
 ]
