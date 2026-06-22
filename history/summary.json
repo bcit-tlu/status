@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 220,
     "timeDay": 305,
-    "timeWeek": 190,
+    "timeWeek": 187,
     "timeMonth": 173,
     "timeYear": 220,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "99.96%",
     "time": 480,
     "timeDay": 201,
-    "timeWeek": 355,
+    "timeWeek": 365,
     "timeMonth": 511,
     "timeYear": 480,
     "dailyMinutesDown": {
@@ -51,7 +51,7 @@
     "uptimeYear": "99.98%",
     "time": 563,
     "timeDay": 304,
-    "timeWeek": 481,
+    "timeWeek": 497,
     "timeMonth": 611,
     "timeYear": 563,
     "dailyMinutesDown": {
@@ -71,7 +71,7 @@
     "uptimeYear": "99.98%",
     "time": 862,
     "timeDay": 491,
-    "timeWeek": 718,
+    "timeWeek": 744,
     "timeMonth": 893,
     "timeYear": 862,
     "dailyMinutesDown": {
@@ -91,7 +91,7 @@
     "uptimeYear": "99.66%",
     "time": 428,
     "timeDay": 209,
-    "timeWeek": 362,
+    "timeWeek": 385,
     "timeMonth": 466,
     "timeYear": 428,
     "dailyMinutesDown": {
@@ -112,7 +112,7 @@
     "uptimeYear": "100.00%",
     "time": 509,
     "timeDay": 339,
-    "timeWeek": 463,
+    "timeWeek": 467,
     "timeMonth": 493,
     "timeYear": 509,
     "dailyMinutesDown": {}
@@ -130,7 +130,7 @@
     "uptimeYear": "100.00%",
     "time": 375,
     "timeDay": 173,
-    "timeWeek": 382,
+    "timeWeek": 394,
     "timeMonth": 375,
     "timeYear": 375,
     "dailyMinutesDown": {}
@@ -148,7 +148,7 @@
     "uptimeYear": "99.10%",
     "time": 246,
     "timeDay": 418,
-    "timeWeek": 220,
+    "timeWeek": 211,
     "timeMonth": 237,
     "timeYear": 246,
     "dailyMinutesDown": {
@@ -177,7 +177,7 @@
     "uptimeYear": "100.00%",
     "time": 304,
     "timeDay": 123,
-    "timeWeek": 289,
+    "timeWeek": 308,
     "timeMonth": 284,
     "timeYear": 304,
     "dailyMinutesDown": {}
@@ -195,7 +195,7 @@
     "uptimeYear": "100.00%",
     "time": 604,
     "timeDay": 200,
-    "timeWeek": 380,
+    "timeWeek": 403,
     "timeMonth": 604,
     "timeYear": 604,
     "dailyMinutesDown": {}
@@ -213,7 +213,7 @@
     "uptimeYear": "100.00%",
     "time": 357,
     "timeDay": 184,
-    "timeWeek": 270,
+    "timeWeek": 280,
     "timeMonth": 321,
     "timeYear": 357,
     "dailyMinutesDown": {}
@@ -231,7 +231,7 @@
     "uptimeYear": "98.07%",
     "time": 329,
     "timeDay": 130,
-    "timeWeek": 337,
+    "timeWeek": 353,
     "timeMonth": 299,
     "timeYear": 329,
     "dailyMinutesDown": {
@@ -253,7 +253,7 @@
     "uptimeYear": "100.00%",
     "time": 314,
     "timeDay": 151,
-    "timeWeek": 290,
+    "timeWeek": 304,
     "timeMonth": 314,
     "timeYear": 314,
     "dailyMinutesDown": {}
@@ -271,7 +271,7 @@
     "uptimeYear": "100.00%",
     "time": 412,
     "timeDay": 222,
-    "timeWeek": 397,
+    "timeWeek": 422,
     "timeMonth": 412,
     "timeYear": 412,
     "dailyMinutesDown": {}
@@ -289,7 +289,7 @@
     "uptimeYear": "100.00%",
     "time": 321,
     "timeDay": 173,
-    "timeWeek": 273,
+    "timeWeek": 287,
     "timeMonth": 289,
     "timeYear": 321,
     "dailyMinutesDown": {}
@@ -299,17 +299,17 @@
     "url": "https://www.techhelpbcit.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/www.techhelpbcit.ca.ico",
     "slug": "ets-online-help-centre",
-    "status": "down",
+    "status": "up",
     "uptime": "95.30%",
-    "uptimeDay": "87.45%",
-    "uptimeWeek": "84.20%",
+    "uptimeDay": "87.22%",
+    "uptimeWeek": "84.17%",
     "uptimeMonth": "84.43%",
     "uptimeYear": "95.30%",
-    "time": 398,
-    "timeDay": 386,
-    "timeWeek": 333,
-    "timeMonth": 328,
-    "timeYear": 398,
+    "time": 399,
+    "timeDay": 436,
+    "timeWeek": 336,
+    "timeMonth": 330,
+    "timeYear": 399,
     "dailyMinutesDown": {
       "2026-04-28": 44,
       "2026-05-02": 40,
@@ -348,7 +348,7 @@
       "2026-06-19": 79,
       "2026-06-20": 342,
       "2026-06-21": 249,
-      "2026-06-22": 172
+      "2026-06-22": 176
     }
   }
 ]
