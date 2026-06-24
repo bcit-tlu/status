@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 222,
     "timeDay": 290,
-    "timeWeek": 222,
+    "timeWeek": 238,
     "timeMonth": 182,
     "timeYear": 222,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "99.96%",
     "time": 476,
     "timeDay": 371,
-    "timeWeek": 337,
+    "timeWeek": 319,
     "timeMonth": 504,
     "timeYear": 476,
     "dailyMinutesDown": {
@@ -51,7 +51,7 @@
     "uptimeYear": "99.98%",
     "time": 557,
     "timeDay": 407,
-    "timeWeek": 446,
+    "timeWeek": 403,
     "timeMonth": 603,
     "timeYear": 557,
     "dailyMinutesDown": {
@@ -71,7 +71,7 @@
     "uptimeYear": "99.98%",
     "time": 854,
     "timeDay": 576,
-    "timeWeek": 656,
+    "timeWeek": 607,
     "timeMonth": 881,
     "timeYear": 854,
     "dailyMinutesDown": {
@@ -87,11 +87,11 @@
     "uptime": "99.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.01%",
+    "uptimeMonth": "99.05%",
     "uptimeYear": "99.66%",
     "time": 422,
     "timeDay": 308,
-    "timeWeek": 341,
+    "timeWeek": 312,
     "timeMonth": 474,
     "timeYear": 422,
     "dailyMinutesDown": {
@@ -112,7 +112,7 @@
     "uptimeYear": "100.00%",
     "time": 507,
     "timeDay": 471,
-    "timeWeek": 443,
+    "timeWeek": 426,
     "timeMonth": 482,
     "timeYear": 507,
     "dailyMinutesDown": {}
@@ -130,7 +130,7 @@
     "uptimeYear": "100.00%",
     "time": 360,
     "timeDay": 221,
-    "timeWeek": 320,
+    "timeWeek": 266,
     "timeMonth": 360,
     "timeYear": 360,
     "dailyMinutesDown": {}
@@ -148,7 +148,7 @@
     "uptimeYear": "99.11%",
     "time": 248,
     "timeDay": 406,
-    "timeWeek": 298,
+    "timeWeek": 310,
     "timeMonth": 242,
     "timeYear": 248,
     "dailyMinutesDown": {
@@ -177,7 +177,7 @@
     "uptimeYear": "100.00%",
     "time": 301,
     "timeDay": 272,
-    "timeWeek": 266,
+    "timeWeek": 227,
     "timeMonth": 281,
     "timeYear": 301,
     "dailyMinutesDown": {}
@@ -195,7 +195,7 @@
     "uptimeYear": "100.00%",
     "time": 579,
     "timeDay": 326,
-    "timeWeek": 362,
+    "timeWeek": 317,
     "timeMonth": 579,
     "timeYear": 579,
     "dailyMinutesDown": {}
@@ -213,7 +213,7 @@
     "uptimeYear": "100.00%",
     "time": 352,
     "timeDay": 215,
-    "timeWeek": 230,
+    "timeWeek": 208,
     "timeMonth": 310,
     "timeYear": 352,
     "dailyMinutesDown": {}
@@ -231,7 +231,7 @@
     "uptimeYear": "98.11%",
     "time": 326,
     "timeDay": 276,
-    "timeWeek": 299,
+    "timeWeek": 261,
     "timeMonth": 298,
     "timeYear": 326,
     "dailyMinutesDown": {
@@ -253,7 +253,7 @@
     "uptimeYear": "100.00%",
     "time": 304,
     "timeDay": 207,
-    "timeWeek": 268,
+    "timeWeek": 239,
     "timeMonth": 304,
     "timeYear": 304,
     "dailyMinutesDown": {}
@@ -271,7 +271,7 @@
     "uptimeYear": "100.00%",
     "time": 398,
     "timeDay": 279,
-    "timeWeek": 355,
+    "timeWeek": 322,
     "timeMonth": 398,
     "timeYear": 398,
     "dailyMinutesDown": {}
@@ -289,7 +289,7 @@
     "uptimeYear": "100.00%",
     "time": 317,
     "timeDay": 216,
-    "timeWeek": 233,
+    "timeWeek": 213,
     "timeMonth": 285,
     "timeYear": 317,
     "dailyMinutesDown": {}
@@ -299,17 +299,17 @@
     "url": "https://www.techhelpbcit.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/www.techhelpbcit.ca.ico",
     "slug": "ets-online-help-centre",
-    "status": "down",
-    "uptime": "95.35%",
-    "uptimeDay": "83.24%",
-    "uptimeWeek": "85.68%",
-    "uptimeMonth": "83.97%",
-    "uptimeYear": "95.35%",
-    "time": 397,
-    "timeDay": 332,
+    "status": "up",
+    "uptime": "95.34%",
+    "uptimeDay": "82.05%",
+    "uptimeWeek": "85.50%",
+    "uptimeMonth": "83.93%",
+    "uptimeYear": "95.34%",
+    "time": 396,
+    "timeDay": 326,
     "timeWeek": 349,
     "timeMonth": 333,
-    "timeYear": 397,
+    "timeYear": 396,
     "dailyMinutesDown": {
       "2026-05-17": 62,
       "2026-05-21": 72,
@@ -345,7 +345,7 @@
       "2026-06-21": 249,
       "2026-06-22": 172,
       "2026-06-23": 103,
-      "2026-06-24": 241
+      "2026-06-24": 258
     }
   }
 ]
