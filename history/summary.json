@@ -224,11 +224,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/qcon-api.ltc.bcit.ca.ico",
     "slug": "qcon-api",
     "status": "up",
-    "uptime": "98.11%",
+    "uptime": "98.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "93.10%",
-    "uptimeYear": "98.11%",
+    "uptimeYear": "98.12%",
     "time": 326,
     "timeDay": 276,
     "timeWeek": 261,
@@ -299,16 +299,16 @@
     "url": "https://www.techhelpbcit.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/www.techhelpbcit.ca.ico",
     "slug": "ets-online-help-centre",
-    "status": "down",
-    "uptime": "95.37%",
-    "uptimeDay": "85.65%",
+    "status": "up",
+    "uptime": "95.34%",
+    "uptimeDay": "82.09%",
     "uptimeWeek": "84.90%",
-    "uptimeMonth": "83.80%",
-    "uptimeYear": "95.37%",
+    "uptimeMonth": "83.68%",
+    "uptimeYear": "95.34%",
     "time": 396,
-    "timeDay": 294,
-    "timeWeek": 353,
-    "timeMonth": 333,
+    "timeDay": 330,
+    "timeWeek": 357,
+    "timeMonth": 334,
     "timeYear": 396,
     "dailyMinutesDown": {
       "2026-05-22": 118,
@@ -344,7 +344,7 @@
       "2026-06-22": 172,
       "2026-06-23": 103,
       "2026-06-24": 258,
-      "2026-06-25": 123
+      "2026-06-25": 174
     }
   }
 ]
