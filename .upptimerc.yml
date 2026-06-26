@@ -37,6 +37,7 @@ sites:
   #   url: https://sugar-suite.latest.ltc.bcit.ca
   - name: public/v1
     url: https://ltc.bcit.ca/public/v1/js/lat.js
+    maxRedirects: 0
     expectedStatusCodes:
       - 200
   - name: ETS Online Help Centre
