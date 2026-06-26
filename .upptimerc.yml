@@ -35,6 +35,10 @@ sites:
     url: https://sugar-suite.ltc.bcit.ca
   # - name: Sugar Suite - latest
   #   url: https://sugar-suite.latest.ltc.bcit.ca
+  - name: public/v1
+    url: https://ltc.bcit.ca/public/v1/js/lat.js
+    expectedStatusCodes:
+      - 200
   - name: ETS Online Help Centre
     url: https://www.techhelpbcit.ca/
     maxResponseTime: 5000
