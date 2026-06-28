@@ -300,18 +300,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ltc.bcit.ca.ico",
     "slug": "public-v1",
     "status": "down",
-    "uptime": "0.35%",
+    "uptime": "0.34%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.35%",
-    "uptimeMonth": "0.35%",
-    "uptimeYear": "0.35%",
+    "uptimeWeek": "0.34%",
+    "uptimeMonth": "0.34%",
+    "uptimeYear": "0.34%",
     "time": 100,
     "timeDay": 92,
     "timeWeek": 100,
     "timeMonth": 100,
     "timeYear": 100,
     "dailyMinutesDown": {
-      "2026-06-28": 6,
+      "2026-06-28": 62,
       "2026-06-27": 1440,
       "2026-06-26": 515
     }
