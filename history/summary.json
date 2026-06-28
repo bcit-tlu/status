@@ -300,18 +300,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ltc.bcit.ca.ico",
     "slug": "public-v1",
     "status": "down",
-    "uptime": "0.26%",
+    "uptime": "0.25%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.26%",
-    "uptimeMonth": "0.26%",
-    "uptimeYear": "0.26%",
+    "uptimeWeek": "0.25%",
+    "uptimeMonth": "0.25%",
+    "uptimeYear": "0.25%",
     "time": 100,
     "timeDay": 92,
     "timeWeek": 100,
     "timeMonth": 100,
     "timeYear": 100,
     "dailyMinutesDown": {
-      "2026-06-28": 693,
+      "2026-06-28": 727,
       "2026-06-27": 1440,
       "2026-06-26": 515
     }
@@ -321,17 +321,17 @@
     "url": "https://www.techhelpbcit.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/www.techhelpbcit.ca.ico",
     "slug": "ets-online-help-centre",
-    "status": "down",
-    "uptime": "95.53%",
-    "uptimeDay": "58.21%",
-    "uptimeWeek": "77.72%",
-    "uptimeMonth": "83.23%",
-    "uptimeYear": "95.53%",
-    "time": 400,
-    "timeDay": 332,
-    "timeWeek": 396,
-    "timeMonth": 349,
-    "timeYear": 400,
+    "status": "up",
+    "uptime": "95.51%",
+    "uptimeDay": "56.91%",
+    "uptimeWeek": "77.38%",
+    "uptimeMonth": "83.15%",
+    "uptimeYear": "95.51%",
+    "time": 401,
+    "timeDay": 353,
+    "timeWeek": 399,
+    "timeMonth": 350,
+    "timeYear": 401,
     "dailyMinutesDown": {
       "2026-06-02": 208,
       "2026-06-03": 447,
@@ -359,7 +359,7 @@
       "2026-06-25": 296,
       "2026-06-26": 326,
       "2026-06-27": 608,
-      "2026-06-28": 232
+      "2026-06-28": 266
     }
   }
 ]
