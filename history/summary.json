@@ -13,7 +13,7 @@
     "time": 223,
     "timeDay": 91,
     "timeWeek": 240,
-    "timeMonth": 196,
+    "timeMonth": 193,
     "timeYear": 223,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 466,
     "timeDay": 638,
     "timeWeek": 373,
-    "timeMonth": 512,
+    "timeMonth": 406,
     "timeYear": 466,
     "dailyMinutesDown": {
       "2026-03-06": 32,
@@ -52,7 +52,7 @@
     "time": 546,
     "timeDay": 707,
     "timeWeek": 430,
-    "timeMonth": 478,
+    "timeMonth": 485,
     "timeYear": 546,
     "dailyMinutesDown": {
       "2026-03-06": 32
@@ -72,7 +72,7 @@
     "time": 842,
     "timeDay": 1149,
     "timeWeek": 704,
-    "timeMonth": 785,
+    "timeMonth": 788,
     "timeYear": 842,
     "dailyMinutesDown": {
       "2026-03-14": 32
@@ -92,7 +92,7 @@
     "time": 415,
     "timeDay": 541,
     "timeWeek": 333,
-    "timeMonth": 477,
+    "timeMonth": 359,
     "timeYear": 415,
     "dailyMinutesDown": {
       "2026-05-25": 404,
@@ -113,7 +113,7 @@
     "time": 501,
     "timeDay": 561,
     "timeWeek": 447,
-    "timeMonth": 483,
+    "timeMonth": 486,
     "timeYear": 501,
     "dailyMinutesDown": {}
   },
@@ -131,7 +131,7 @@
     "time": 347,
     "timeDay": 494,
     "timeWeek": 296,
-    "timeMonth": 347,
+    "timeMonth": 353,
     "timeYear": 347,
     "dailyMinutesDown": {}
   },
@@ -149,7 +149,7 @@
     "time": 252,
     "timeDay": 194,
     "timeWeek": 327,
-    "timeMonth": 238,
+    "timeMonth": 236,
     "timeYear": 252,
     "dailyMinutesDown": {
       "2026-06-03": 161,
@@ -178,7 +178,7 @@
     "time": 295,
     "timeDay": 528,
     "timeWeek": 241,
-    "timeMonth": 284,
+    "timeMonth": 290,
     "timeYear": 295,
     "dailyMinutesDown": {}
   },
@@ -196,7 +196,7 @@
     "time": 534,
     "timeDay": 779,
     "timeWeek": 387,
-    "timeMonth": 534,
+    "timeMonth": 417,
     "timeYear": 534,
     "dailyMinutesDown": {}
   },
@@ -214,7 +214,7 @@
     "time": 346,
     "timeDay": 358,
     "timeWeek": 282,
-    "timeMonth": 310,
+    "timeMonth": 314,
     "timeYear": 346,
     "dailyMinutesDown": {}
   },
@@ -227,12 +227,12 @@
     "uptime": "98.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.10%",
+    "uptimeMonth": "93.11%",
     "uptimeYear": "98.21%",
     "time": 322,
     "timeDay": 423,
     "timeWeek": 278,
-    "timeMonth": 297,
+    "timeMonth": 304,
     "timeYear": 322,
     "dailyMinutesDown": {
       "2026-06-03": 1133,
@@ -254,7 +254,7 @@
     "time": 299,
     "timeDay": 405,
     "timeWeek": 279,
-    "timeMonth": 299,
+    "timeMonth": 304,
     "timeYear": 299,
     "dailyMinutesDown": {
       "2026-07-01": 79
@@ -274,7 +274,7 @@
     "time": 383,
     "timeDay": 584,
     "timeWeek": 331,
-    "timeMonth": 383,
+    "timeMonth": 387,
     "timeYear": 383,
     "dailyMinutesDown": {}
   },
@@ -292,7 +292,7 @@
     "time": 310,
     "timeDay": 440,
     "timeWeek": 243,
-    "timeMonth": 288,
+    "timeMonth": 294,
     "timeYear": 310,
     "dailyMinutesDown": {}
   },
@@ -313,7 +313,7 @@
     "timeMonth": 121,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2026-07-01": 940,
+      "2026-07-01": 995,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
@@ -326,16 +326,16 @@
     "url": "https://www.techhelpbcit.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/www.techhelpbcit.ca.ico",
     "slug": "ets-online-help-centre",
-    "status": "down",
-    "uptime": "95.64%",
-    "uptimeDay": "71.82%",
-    "uptimeWeek": "72.26%",
-    "uptimeMonth": "83.17%",
-    "uptimeYear": "95.64%",
+    "status": "up",
+    "uptime": "95.61%",
+    "uptimeDay": "71.84%",
+    "uptimeWeek": "71.72%",
+    "uptimeMonth": "83.04%",
+    "uptimeYear": "95.61%",
     "time": 394,
-    "timeDay": 367,
-    "timeWeek": 379,
-    "timeMonth": 344,
+    "timeDay": 361,
+    "timeWeek": 378,
+    "timeMonth": 343,
     "timeYear": 394,
     "dailyMinutesDown": {
       "2026-06-07": 551,
@@ -362,7 +362,7 @@
       "2026-06-28": 481,
       "2026-06-29": 322,
       "2026-06-30": 494,
-      "2026-07-01": 185
+      "2026-07-01": 240
     }
   }
 ]
