@@ -249,11 +249,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/qf-pcr.ltc.bcit.ca.ico",
     "slug": "qf-pcr",
     "status": "down",
-    "uptime": "99.73%",
-    "uptimeDay": "94.99%",
-    "uptimeWeek": "99.28%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.73%",
+    "uptime": "99.66%",
+    "uptimeDay": "92.59%",
+    "uptimeWeek": "98.94%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.66%",
     "time": 288,
     "timeDay": 123,
     "timeWeek": 209,
@@ -261,7 +261,7 @@
     "timeYear": 288,
     "dailyMinutesDown": {
       "2026-07-01": 79,
-      "2026-07-09": 72
+      "2026-07-09": 107
     }
   },
   {
@@ -317,7 +317,7 @@
     "timeMonth": 138,
     "timeYear": 138,
     "dailyMinutesDown": {
-      "2026-07-09": 1277,
+      "2026-07-09": 1311,
       "2026-07-08": 1440,
       "2026-07-07": 1440,
       "2026-07-06": 1440,
@@ -338,16 +338,16 @@
     "url": "https://www.techhelpbcit.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/www.techhelpbcit.ca.ico",
     "slug": "ets-online-help-centre",
-    "status": "down",
-    "uptime": "96.26%",
-    "uptimeDay": "88.85%",
-    "uptimeWeek": "88.09%",
-    "uptimeMonth": "84.57%",
-    "uptimeYear": "96.26%",
+    "status": "up",
+    "uptime": "96.25%",
+    "uptimeDay": "86.46%",
+    "uptimeWeek": "87.75%",
+    "uptimeMonth": "84.49%",
+    "uptimeYear": "96.25%",
     "time": 384,
-    "timeDay": 297,
-    "timeWeek": 323,
-    "timeMonth": 344,
+    "timeDay": 294,
+    "timeWeek": 322,
+    "timeMonth": 343,
     "timeYear": 384,
     "dailyMinutesDown": {
       "2026-06-14": 275,
@@ -375,7 +375,7 @@
       "2026-07-06": 225,
       "2026-07-07": 146,
       "2026-07-08": 97,
-      "2026-07-09": 160
+      "2026-07-09": 195
     }
   }
 ]
