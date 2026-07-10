@@ -123,18 +123,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/hriv.latest.ltc.bcit.ca.ico",
     "slug": "hriv-latest",
     "status": "down",
-    "uptime": "99.72%",
-    "uptimeDay": "89.16%",
-    "uptimeWeek": "98.45%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.72%",
+    "uptime": "99.62%",
+    "uptimeDay": "85.30%",
+    "uptimeWeek": "97.90%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.62%",
     "time": 337,
     "timeDay": 289,
     "timeWeek": 311,
     "timeMonth": 338,
     "timeYear": 337,
     "dailyMinutesDown": {
-      "2026-07-09": 155
+      "2026-07-09": 165,
+      "2026-07-10": 46
     }
   },
   {
@@ -317,7 +318,8 @@
     "timeMonth": 143,
     "timeYear": 143,
     "dailyMinutesDown": {
-      "2026-07-09": 1430,
+      "2026-07-10": 46,
+      "2026-07-09": 1440,
       "2026-07-08": 1440,
       "2026-07-07": 1440,
       "2026-07-06": 1440,
@@ -341,7 +343,7 @@
     "status": "up",
     "uptime": "96.25%",
     "uptimeDay": "86.46%",
-    "uptimeWeek": "88.15%",
+    "uptimeWeek": "88.70%",
     "uptimeMonth": "84.49%",
     "uptimeYear": "96.25%",
     "time": 384,
