@@ -319,7 +319,7 @@
     "timeMonth": 157,
     "timeYear": 157,
     "dailyMinutesDown": {
-      "2026-07-22": 4,
+      "2026-07-22": 40,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
@@ -355,7 +355,7 @@
     "slug": "ets-online-help-centre",
     "status": "up",
     "uptime": "96.43%",
-    "uptimeDay": "79.46%",
+    "uptimeDay": "81.92%",
     "uptimeWeek": "73.28%",
     "uptimeMonth": "83.83%",
     "uptimeYear": "96.43%",
