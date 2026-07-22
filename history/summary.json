@@ -308,11 +308,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ltc.bcit.ca.ico",
     "slug": "public-v1",
     "status": "up",
-    "uptime": "0.02%",
-    "uptimeDay": "0.06%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptime": "0.04%",
+    "uptimeDay": "0.62%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
     "time": 164,
     "timeDay": 296,
     "timeWeek": 194,
@@ -353,15 +353,15 @@
     "url": "https://www.techhelpbcit.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/www.techhelpbcit.ca.ico",
     "slug": "ets-online-help-centre",
-    "status": "down",
+    "status": "up",
     "uptime": "96.46%",
-    "uptimeDay": "90.53%",
-    "uptimeWeek": "73.93%",
-    "uptimeMonth": "83.89%",
+    "uptimeDay": "89.98%",
+    "uptimeWeek": "73.85%",
+    "uptimeMonth": "83.88%",
     "uptimeYear": "96.46%",
     "time": 366,
-    "timeDay": 271,
-    "timeWeek": 303,
+    "timeDay": 268,
+    "timeWeek": 302,
     "timeMonth": 332,
     "timeYear": 366,
     "dailyMinutesDown": {
@@ -390,7 +390,7 @@
       "2026-07-19": 298,
       "2026-07-21": 296,
       "2026-07-20": 1425,
-      "2026-07-22": 90
+      "2026-07-22": 98
     }
   }
 ]
