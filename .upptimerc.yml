@@ -2,6 +2,11 @@
 owner: bcit-tlu # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
 
+# Complete allowlist of repository secrets exposed to the uptime checks.
+# GH_PAT is passed separately by the generated workflows and must not be listed.
+secrets:
+  - GRAFANA_DEADMAN_TOKEN
+
 sites:
   - name: cdn
     url: https://commoncdnkztu547l.blob.core.windows.net/cdn/bcit-ltc/common/branding/1.0.0/alive.html
@@ -40,6 +45,35 @@ sites:
   - name: ETS Online Help Centre
     url: https://www.techhelpbcit.ca/
     maxResponseTime: 5000
+  # Deadman's switch for the stable cluster's monitoring stack: instead of the
+  # stack alerting us, we ask it from outside whether it is still alive. The
+  # kube-prometheus-stack Watchdog alert always fires while Prometheus is
+  # evaluating rules, and is routed to a null receiver in-cluster, so its
+  # absence here means rule evaluation (or Prometheus, or Grafana, or the
+  # ingress) has stopped — the failure mode that made Aug 8-10 silent.
+  # An expired/revoked token returns 401 rather than an empty result, so a
+  # credential problem is distinguishable from a real outage in history/*.yml.
+  - name: Monitoring deadman (Watchdog)
+    slug: monitoring-deadman
+    url: https://grafana.ltc.bcit.ca/api/datasources/proxy/uid/prometheus/api/v1/query?query=ALERTS%7Balertname%3D%22Watchdog%22%2Calertstate%3D%22firing%22%7D
+    headers:
+      - "Authorization: Bearer $GRAFANA_DEADMAN_TOKEN"
+    expectedStatusCodes:
+      - 200
+    __dangerous__body_down_if_text_missing: '"alertname":"Watchdog"'
+    maxResponseTime: 10000
+  # Watchdog only proves Prometheus is evaluating rules; alerts still go nowhere
+  # if Alertmanager is absent (it was, for weeks). The `== 1` makes the result
+  # empty when the target exists but is unhealthy, not just when it is missing.
+  - name: Alertmanager (stable)
+    slug: alertmanager-stable
+    url: https://grafana.ltc.bcit.ca/api/datasources/proxy/uid/prometheus/api/v1/query?query=up%7Bjob%3D%22kps-alertmanager%22%7D%20%3D%3D%201
+    headers:
+      - "Authorization: Bearer $GRAFANA_DEADMAN_TOKEN"
+    expectedStatusCodes:
+      - 200
+    __dangerous__body_down_if_text_missing: '"job":"kps-alertmanager"'
+    maxResponseTime: 10000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
