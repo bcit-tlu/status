@@ -312,11 +312,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ltc.bcit.ca.ico",
     "slug": "public-v1",
     "status": "up",
-    "uptime": "50.80%",
+    "uptime": "50.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "86.76%",
-    "uptimeYear": "50.80%",
+    "uptimeMonth": "86.82%",
+    "uptimeYear": "50.82%",
     "time": 194,
     "timeDay": 346,
     "timeWeek": 221,
@@ -402,19 +402,19 @@
     "url": "https://grafana.ltc.bcit.ca/api/datasources/proxy/uid/prometheus/api/v1/query?query=ALERTS%7Balertname%3D%22Watchdog%22%2Calertstate%3D%22firing%22%7D",
     "icon": "https://icons.duckduckgo.com/ip3/grafana.ltc.bcit.ca.ico",
     "slug": "monitoring-deadman",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 199,
-    "timeDay": 199,
-    "timeWeek": 199,
-    "timeMonth": 199,
-    "timeYear": 199,
+    "time": 221,
+    "timeDay": 221,
+    "timeWeek": 221,
+    "timeMonth": 221,
+    "timeYear": 221,
     "dailyMinutesDown": {
-      "2026-08-18": 795
+      "2026-08-18": 820
     }
   },
   {
@@ -434,7 +434,7 @@
     "timeMonth": 157,
     "timeYear": 157,
     "dailyMinutesDown": {
-      "2026-08-18": 795
+      "2026-08-18": 821
     }
   }
 ]
