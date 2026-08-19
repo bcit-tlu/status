@@ -8,10 +8,8 @@ secrets:
   - GRAFANA_DEADMAN_TOKEN
 
 sites:
-  - name: cdn
-    url: https://commoncdnkztu547l.blob.core.windows.net/cdn/bcit-ltc/common/branding/1.0.0/alive.html
-  - name: Common (cdn loader)
-    url: https://common.ltc.bcit.ca
+  - name: "cdn: sugar-suite/974f0ac"
+    url: https://bcit-ltc-cdn-h3aafscucgd4dvd3.z03.azurefd.net/bcit-ltc/sugar-suite/974f0ac/js/lat.js
   - name: Conversion Guide
     url: https://conversion-guide.ltc.bcit.ca
   - name: CORGI
@@ -20,8 +18,8 @@ sites:
     url: https://course-workload-estimator.ltc.bcit.ca
   - name: H5P
     url: https://h5p.commons.bcit.ca
-  - name: hriv (latest)
-    url: https://hriv.latest.ltc.bcit.ca
+  - name: HRIV
+    url: https://hriv.ltc.bcit.ca
   - name: Learning Hub
     url: https://learn.bcit.ca/shared/header.htm
   - name: Legacy apps
@@ -38,8 +36,6 @@ sites:
     url: https://tech-ops-docs.ltc.bcit.ca
   - name: Sugar Suite
     url: https://sugar-suite.ltc.bcit.ca
-  # - name: Sugar Suite - latest
-  #   url: https://sugar-suite.latest.ltc.bcit.ca
   - name: public/v1
     url: https://ltc.bcit.ca/public/v1/js/lat.js
   - name: ETS Online Help Centre
@@ -50,10 +46,10 @@ sites:
   # kube-prometheus-stack Watchdog alert always fires while Prometheus is
   # evaluating rules, and is routed to a null receiver in-cluster, so its
   # absence here means rule evaluation (or Prometheus, or Grafana, or the
-  # ingress) has stopped — the failure mode that made Aug 8-10 silent.
+  # ingress) has stopped.
   # An expired/revoked token returns 401 rather than an empty result, so a
   # credential problem is distinguishable from a real outage in history/*.yml.
-  - name: Monitoring deadman (Watchdog)
+  - name: Monitoring (Watchdog)
     slug: monitoring-deadman
     url: https://grafana.ltc.bcit.ca/api/datasources/proxy/uid/prometheus/api/v1/query?query=ALERTS%7Balertname%3D%22Watchdog%22%2Calertstate%3D%22firing%22%7D
     headers:
@@ -63,7 +59,7 @@ sites:
     __dangerous__body_down_if_text_missing: '"alertname":"Watchdog"'
     maxResponseTime: 10000
   # Watchdog only proves Prometheus is evaluating rules; alerts still go nowhere
-  # if Alertmanager is absent (it was, for weeks). The `== 1` makes the result
+  # if Alertmanager is absent. The `== 1` makes the result
   # empty when the target exists but is unhealthy, not just when it is missing.
   - name: Alertmanager (stable)
     slug: alertmanager-stable
