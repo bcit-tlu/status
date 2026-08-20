@@ -192,11 +192,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/qcon-web.ltc.bcit.ca.ico",
     "slug": "qcon-web",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "88.80%",
-    "uptimeWeek": "98.40%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.92%",
+    "uptimeDay": "86.77%",
+    "uptimeWeek": "98.11%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.92%",
     "time": 330,
     "timeDay": 193,
     "timeWeek": 230,
@@ -204,7 +204,7 @@
     "timeYear": 330,
     "dailyMinutesDown": {
       "2026-08-19": 145,
-      "2026-08-20": 17
+      "2026-08-20": 46
     }
   },
   {
@@ -213,11 +213,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/qcon-api.ltc.bcit.ca.ico",
     "slug": "qcon-api",
     "status": "down",
-    "uptime": "98.67%",
-    "uptimeDay": "88.83%",
-    "uptimeWeek": "98.40%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "98.67%",
+    "uptime": "98.66%",
+    "uptimeDay": "86.80%",
+    "uptimeWeek": "98.11%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "98.66%",
     "time": 314,
     "timeDay": 158,
     "timeWeek": 245,
@@ -228,7 +228,7 @@
       "2026-06-02": 1440,
       "2026-06-01": 449,
       "2026-08-19": 143,
-      "2026-08-20": 17
+      "2026-08-20": 46
     }
   },
   {
@@ -295,11 +295,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ltc.bcit.ca.ico",
     "slug": "public-v1",
     "status": "up",
-    "uptime": "51.95%",
+    "uptime": "51.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "90.93%",
-    "uptimeYear": "51.95%",
+    "uptimeMonth": "91.00%",
+    "uptimeYear": "51.97%",
     "time": 211,
     "timeDay": 548,
     "timeWeek": 301,
@@ -344,7 +344,7 @@
     "uptime": "97.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.18%",
-    "uptimeMonth": "92.05%",
+    "uptimeMonth": "92.12%",
     "uptimeYear": "97.40%",
     "time": 368,
     "timeDay": 775,
@@ -385,19 +385,20 @@
     "url": "https://grafana.ltc.bcit.ca/api/datasources/proxy/uid/prometheus/api/v1/query?query=ALERTS%7Balertname%3D%22Watchdog%22%2Calertstate%3D%22firing%22%7D",
     "icon": "https://icons.duckduckgo.com/ip3/grafana.ltc.bcit.ca.ico",
     "slug": "monitoring-deadman",
-    "status": "up",
-    "uptime": "55.15%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "55.15%",
-    "uptimeMonth": "55.15%",
-    "uptimeYear": "55.15%",
-    "time": 258,
-    "timeDay": 299,
-    "timeWeek": 258,
-    "timeMonth": 258,
-    "timeYear": 258,
+    "status": "down",
+    "uptime": "55.83%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "55.83%",
+    "uptimeMonth": "55.83%",
+    "uptimeYear": "55.83%",
+    "time": 241,
+    "timeDay": 260,
+    "timeWeek": 241,
+    "timeMonth": 241,
+    "timeYear": 241,
     "dailyMinutesDown": {
-      "2026-08-18": 820
+      "2026-08-18": 820,
+      "2026-08-20": 1
     }
   },
   {
@@ -405,19 +406,20 @@
     "url": "https://grafana.ltc.bcit.ca/api/datasources/proxy/uid/prometheus/api/v1/query?query=up%7Bjob%3D%22kps-alertmanager%22%7D%20%3D%3D%201",
     "icon": "https://icons.duckduckgo.com/ip3/grafana.ltc.bcit.ca.ico",
     "slug": "alertmanager-stable",
-    "status": "up",
-    "uptime": "46.45%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "46.45%",
-    "uptimeMonth": "46.45%",
-    "uptimeYear": "46.45%",
-    "time": 162,
-    "timeDay": 153,
-    "timeWeek": 162,
-    "timeMonth": 162,
-    "timeYear": 162,
+    "status": "down",
+    "uptime": "47.28%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "47.28%",
+    "uptimeMonth": "47.28%",
+    "uptimeYear": "47.28%",
+    "time": 160,
+    "timeDay": 151,
+    "timeWeek": 160,
+    "timeMonth": 160,
+    "timeYear": 160,
     "dailyMinutesDown": {
-      "2026-08-18": 979
+      "2026-08-18": 979,
+      "2026-08-20": 0
     }
   }
 ]
