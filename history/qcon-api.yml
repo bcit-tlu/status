@@ -1,7 +1,7 @@
 url: https://qcon-api.ltc.bcit.ca
-status: up
-code: 200
-responseTime: 204
-lastUpdated: 2026-08-23T03:36:27.994Z
+status: down
+code: 404
+responseTime: 126
+lastUpdated: 2026-08-23T04:16:52.548Z
 startTime: 2026-03-06T05:33:50.740Z
 generator: Upptime <https://github.com/upptime/upptime>
