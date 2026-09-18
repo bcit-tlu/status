@@ -9,7 +9,7 @@ secrets:
 
 sites:
   - name: "cdn: sugar-suite/974f0ac"
-    url: https://bcit-ltc-cdn-h3aafscucgd4dvd3.z03.azurefd.net/bcit-ltc/sugar-suite/974f0ac/js/lat.js
+    url: https://bcitcdn-abe4a4ath0cqfucs.z03.azurefd.net/sugar-suite/2eca025/js/lat.js
   - name: Conversion Guide
     url: https://conversion-guide.ltc.bcit.ca
   - name: CORGI
