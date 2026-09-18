@@ -8,7 +8,7 @@ secrets:
   - GRAFANA_DEADMAN_TOKEN
 
 sites:
-  - name: "cdn: sugar-suite/974f0ac"
+  - name: "cdn: sugar-suite/2eca025"
     url: https://bcitcdn-abe4a4ath0cqfucs.z03.azurefd.net/sugar-suite/2eca025/js/lat.js
   - name: Conversion Guide
     url: https://conversion-guide.ltc.bcit.ca
