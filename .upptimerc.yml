@@ -26,10 +26,8 @@ sites:
     url: https://ltc.bcit.ca/multimedia/
   - name: Open Data
     url: https://open-data.ltc.bcit.ca
-  - name: qcon-web
-    url: https://qcon-web.ltc.bcit.ca
-  - name: qcon-api
-    url: https://qcon-api.ltc.bcit.ca
+  - name: qcon
+    url: https://qcon.ltc.bcit.ca
   - name: QF-PCR
     url: https://qf-pcr.ltc.bcit.ca
   - name: Tech Ops Docs
