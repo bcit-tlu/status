@@ -22,11 +22,11 @@
     "url": "https://conversion-guide.ltc.bcit.ca",
     "icon": "https://icons.duckduckgo.com/ip3/conversion-guide.ltc.bcit.ca.ico",
     "slug": "conversion-guide",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 517,
     "timeDay": 642,
@@ -34,7 +34,8 @@
     "timeMonth": 538,
     "timeYear": 517,
     "dailyMinutesDown": {
-      "2026-03-06": 32
+      "2026-03-06": 32,
+      "2026-10-03": 3
     }
   },
   {
@@ -42,11 +43,11 @@
     "url": "https://corgi.ltc.bcit.ca",
     "icon": "https://icons.duckduckgo.com/ip3/corgi.ltc.bcit.ca.ico",
     "slug": "corgi",
-    "status": "up",
+    "status": "down",
     "uptime": "97.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "84.88%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "84.87%",
     "uptimeYear": "97.81%",
     "time": 1093,
     "timeDay": 904,
@@ -61,7 +62,8 @@
       "2026-09-06": 1130,
       "2026-09-16": 1110,
       "2026-09-22": 52,
-      "2026-09-21": 59
+      "2026-09-21": 59,
+      "2026-10-03": 3
     }
   },
   {
@@ -69,11 +71,11 @@
     "url": "https://course-workload-estimator.ltc.bcit.ca",
     "icon": "https://icons.duckduckgo.com/ip3/course-workload-estimator.ltc.bcit.ca.ico",
     "slug": "course-workload-estimator",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.82%",
     "time": 382,
     "timeDay": 585,
@@ -82,7 +84,8 @@
     "timeYear": 382,
     "dailyMinutesDown": {
       "2026-05-25": 404,
-      "2026-05-24": 132
+      "2026-05-24": 132,
+      "2026-10-03": 3
     }
   },
   {
@@ -108,11 +111,11 @@
     "url": "https://hriv.ltc.bcit.ca",
     "icon": "https://icons.duckduckgo.com/ip3/hriv.ltc.bcit.ca.ico",
     "slug": "hriv",
-    "status": "up",
+    "status": "down",
     "uptime": "98.15%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "98.15%",
     "time": 348,
     "timeDay": 350,
@@ -121,7 +124,8 @@
     "timeYear": 348,
     "dailyMinutesDown": {
       "2026-05-15": 920,
-      "2026-05-18": 256
+      "2026-05-18": 256,
+      "2026-10-03": 2
     }
   },
   {
@@ -163,10 +167,10 @@
     "url": "https://ltc.bcit.ca/multimedia/",
     "icon": "https://icons.duckduckgo.com/ip3/ltc.bcit.ca.ico",
     "slug": "legacy-apps",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 288,
@@ -174,17 +178,19 @@
     "timeWeek": 327,
     "timeMonth": 312,
     "timeYear": 288,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-03": 2
+    }
   },
   {
     "name": "Open Data",
     "url": "https://open-data.ltc.bcit.ca",
     "icon": "https://icons.duckduckgo.com/ip3/open-data.ltc.bcit.ca.ico",
     "slug": "open-data",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 452,
@@ -192,35 +198,39 @@
     "timeWeek": 476,
     "timeMonth": 447,
     "timeYear": 452,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-03": 2
+    }
   },
   {
     "name": "qcon",
     "url": "https://qcon.ltc.bcit.ca",
     "icon": "https://icons.duckduckgo.com/ip3/qcon.ltc.bcit.ca.ico",
     "slug": "qcon",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 718,
     "timeDay": 894,
     "timeWeek": 692,
     "timeMonth": 718,
     "timeYear": 718,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-03": 2
+    }
   },
   {
     "name": "QF-PCR",
     "url": "https://qf-pcr.ltc.bcit.ca",
     "icon": "https://icons.duckduckgo.com/ip3/qf-pcr.ltc.bcit.ca.ico",
     "slug": "qf-pcr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 343,
@@ -231,7 +241,8 @@
     "dailyMinutesDown": {
       "2026-07-01": 79,
       "2026-07-09": 144,
-      "2026-07-10": 165
+      "2026-07-10": 165,
+      "2026-10-03": 1
     }
   },
   {
@@ -239,10 +250,10 @@
     "url": "https://tech-ops-docs.ltc.bcit.ca",
     "icon": "https://icons.duckduckgo.com/ip3/tech-ops-docs.ltc.bcit.ca.ico",
     "slug": "tech-ops-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 393,
@@ -250,17 +261,19 @@
     "timeWeek": 443,
     "timeMonth": 422,
     "timeYear": 393,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-03": 1
+    }
   },
   {
     "name": "Sugar Suite",
     "url": "https://sugar-suite.ltc.bcit.ca",
     "icon": "https://icons.duckduckgo.com/ip3/sugar-suite.ltc.bcit.ca.ico",
     "slug": "sugar-suite",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 299,
@@ -268,19 +281,21 @@
     "timeWeek": 324,
     "timeMonth": 301,
     "timeYear": 299,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-03": 1
+    }
   },
   {
     "name": "public/v1",
     "url": "https://ltc.bcit.ca/public/v1/js/lat.js",
     "icon": "https://icons.duckduckgo.com/ip3/ltc.bcit.ca.ico",
     "slug": "public-v1",
-    "status": "up",
-    "uptime": "73.44%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "73.45%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "73.44%",
+    "uptimeYear": "73.45%",
     "time": 226,
     "timeDay": 225,
     "timeWeek": 225,
@@ -313,7 +328,8 @@
       "2026-06-29": 1440,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
-      "2026-06-26": 515
+      "2026-06-26": 515,
+      "2026-10-03": 1
     }
   },
   {
@@ -366,10 +382,10 @@
     "url": "https://grafana.ltc.bcit.ca/api/datasources/proxy/uid/prometheus/api/v1/query?query=ALERTS%7Balertname%3D%22Watchdog%22%2Calertstate%3D%22firing%22%7D",
     "icon": "https://icons.duckduckgo.com/ip3/grafana.ltc.bcit.ca.ico",
     "slug": "monitoring-deadman",
-    "status": "up",
+    "status": "down",
     "uptime": "96.30%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "96.43%",
     "uptimeYear": "96.30%",
     "time": 332,
@@ -381,7 +397,8 @@
       "2026-08-18": 820,
       "2026-08-20": 30,
       "2026-09-07": 434,
-      "2026-09-06": 1129
+      "2026-09-06": 1129,
+      "2026-10-03": 1
     }
   },
   {
@@ -389,9 +406,9 @@
     "url": "https://grafana.ltc.bcit.ca/api/datasources/proxy/uid/prometheus/api/v1/query?query=up%7Bjob%3D%22kps-alertmanager%22%7D%20%3D%3D%201",
     "icon": "https://icons.duckduckgo.com/ip3/grafana.ltc.bcit.ca.ico",
     "slug": "alertmanager-stable",
-    "status": "up",
+    "status": "down",
     "uptime": "96.06%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.43%",
     "uptimeYear": "96.06%",
@@ -404,7 +421,8 @@
       "2026-08-18": 979,
       "2026-08-20": 30,
       "2026-09-07": 434,
-      "2026-09-06": 1129
+      "2026-09-06": 1129,
+      "2026-10-03": 0
     }
   }
 ]
