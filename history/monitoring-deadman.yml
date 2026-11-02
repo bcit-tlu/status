@@ -1,7 +1,7 @@
 url: https://grafana.ltc.bcit.ca/api/datasources/proxy/uid/prometheus/api/v1/query?query=ALERTS%7Balertname%3D%22Watchdog%22%2Calertstate%3D%22firing%22%7D
 status: up
 code: 200
-responseTime: 121
-lastUpdated: 2026-11-01T23:12:03.350Z
+responseTime: 272
+lastUpdated: 2026-11-02T23:06:40.426Z
 startTime: 2026-08-18T17:48:14.523Z
 generator: Upptime <https://github.com/upptime/upptime>
