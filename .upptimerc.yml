@@ -8,14 +8,13 @@ secrets:
   - GRAFANA_DEADMAN_TOKEN
 
 sites:
-  - name: "cdn: sugar-suite/2eca025"
-    url: https://bcitcdn-abe4a4ath0cqfucs.z03.azurefd.net/sugar-suite/2eca025/js/lat.js
   - name: Conversion Guide
     url: https://conversion-guide.ltc.bcit.ca
-  - name: CORGI
-    url: https://corgi.ltc.bcit.ca
   - name: Course Workload Estimator
     url: https://course-workload-estimator.ltc.bcit.ca
+  - name: ETS Online Help Centre
+    url: https://www.techhelpbcit.ca/
+    maxResponseTime: 5000
   - name: H5P
     url: https://h5p.commons.bcit.ca
   - name: HRIV
@@ -30,15 +29,10 @@ sites:
     url: https://qcon.ltc.bcit.ca
   - name: QF-PCR
     url: https://qf-pcr.ltc.bcit.ca
-  - name: Tech Ops Docs
-    url: https://tech-ops-docs.ltc.bcit.ca
   - name: Sugar Suite
     url: https://sugar-suite.ltc.bcit.ca
-  - name: public/v1
-    url: https://ltc.bcit.ca/public/v1/js/lat.js
-  - name: ETS Online Help Centre
-    url: https://www.techhelpbcit.ca/
-    maxResponseTime: 5000
+  - name: Tech Ops Docs
+    url: https://tech-ops-docs.ltc.bcit.ca
   # Deadman's switch for the stable cluster's monitoring stack: instead of the
   # stack alerting us, we ask it from outside whether it is still alive. The
   # kube-prometheus-stack Watchdog alert always fires while Prometheus is
