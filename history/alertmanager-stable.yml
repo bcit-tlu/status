@@ -1,7 +1,7 @@
 url: https://grafana.ltc.bcit.ca/api/datasources/proxy/uid/prometheus/api/v1/query?query=up%7Bjob%3D%22kps-alertmanager%22%7D%20%3D%3D%201
 status: up
 code: 200
-responseTime: 226
-lastUpdated: 2026-11-18T23:06:27.729Z
+responseTime: 145
+lastUpdated: 2026-11-19T23:05:49.441Z
 startTime: 2026-08-18T17:48:27.609Z
 generator: Upptime <https://github.com/upptime/upptime>
